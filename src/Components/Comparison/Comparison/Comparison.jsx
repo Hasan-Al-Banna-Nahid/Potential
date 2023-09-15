@@ -11,12 +11,12 @@ const Comparison = () => {
       <div className="md:flex gap-6 justify-center items-center p-6">
         <div>
           <img
-            className="w-[800px] h-[600px] rounded"
-            src="/Asset/2175136.jpg"
+            className="w-[600px] h-[600px] rounded"
+            src="/undraw_feeling_proud_qne1.png"
             alt=""
           />
         </div>
-        <div className="md:grid md:grid-cols-2 justify-center items-center gap-6 my-4 mx-auto">
+        <div className="md:grid md:grid-cols-2 justify-center items-center gap-12 my-4 mx-auto">
           <div className="card w-96 bg-base-100 shadow-xl">
             <figure className="px-10 pt-10">
               <BiTimer className="text-6xl text-blue-900" />

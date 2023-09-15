@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "quote": "The best error message is the one that never shows up.",
+    "description": "Good software design and thorough testing can prevent many errors from occurring in the first place."
+  },
+  {
+    "id": 2,
+    "quote": "Programming is the art of telling another human what one wants the computer to do.",
+    "description": "Coding is not just about writing instructions for machines; it's about clear communication and problem-solving."
+  },
+  {
+    "id": 3,
+    "quote": "The only way to do great work is to love what you do.",
+    "description": "Passion for your work drives innovation and creativity, leading to remarkable outcomes."
+  },
+  {
+    "id": 4,
+    "quote": "In software, we rarely have meaningful requirements. Even if we do, the only measure of success that matters is whether our solution solves the customer’s shifting idea of what their problem is.",
+    "description": "Agile development acknowledges that software requirements often change, emphasizing the importance of delivering value to the customer."
+  },
+  {
+    "id": 5,
+    "quote": "Code never lies, comments sometimes do.",
+    "description": "Well-written and self-explanatory code can be more reliable than comments, which might become outdated."
+  }
+]

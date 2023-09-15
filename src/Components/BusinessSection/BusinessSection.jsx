@@ -10,11 +10,7 @@ const BusinessSection = () => {
         <div>
           <div className="card w-96 bg-base-100 shadow-xl">
             <figure className="px-10 pt-10">
-              <img
-                src="/Asset/20945567.jpg"
-                alt="Shoes"
-                className="rounded-xl"
-              />
+              <img src="/Asset/a3.jpg" alt="Shoes" className="rounded-xl" />
             </figure>
             <div className="card-body items-center text-center">
               <h2 className="card-title">
@@ -60,11 +56,7 @@ const BusinessSection = () => {
         <div>
           <div className="card w-96 bg-base-100 shadow-xl">
             <figure className="px-10 pt-10">
-              <img
-                src="/Asset/20945567.jpg"
-                alt="Shoes"
-                className="rounded-xl"
-              />
+              <img src="/Asset/a1.jpg" alt="Shoes" className="rounded-xl" />
             </figure>
             <div className="card-body items-center text-center">
               <h2 className="card-title">Strategy Analysis.</h2>
@@ -78,7 +70,7 @@ const BusinessSection = () => {
         <div>
           <div className="card w-96 bg-base-100 shadow-xl">
             <figure className="px-10 pt-10">
-              <img src="/Asset/a1.jpg" alt="Shoes" className="rounded-xl" />
+              <img src="/Asset/a3.jpg" alt="Shoes" className="rounded-xl" />
             </figure>
             <div className="card-body items-center text-center">
               <h2 className="card-title">

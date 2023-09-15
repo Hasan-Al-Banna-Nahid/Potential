@@ -9,7 +9,7 @@ const HowWeCanMakeApp = () => {
       <div>
         <img
           className="mx-auto rounded-lg w-[700px] h-[700px]"
-          src="/Asset/2202757.jpg"
+          src="/Asset/3301602.jpg"
           alt=""
         />
       </div>

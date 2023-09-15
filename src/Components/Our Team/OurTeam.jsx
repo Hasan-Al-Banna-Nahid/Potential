@@ -16,7 +16,7 @@ const OurTeam = () => {
               <LazyLoad>
                 {" "}
                 <img
-                  src="/Asset/person.jpg"
+                  src="/Asset/Team/person.jpg"
                   alt="Shoes"
                   className="rounded-xl"
                 />
@@ -37,7 +37,7 @@ const OurTeam = () => {
               <LazyLoad>
                 {" "}
                 <img
-                  src="/Asset/person6.jpg"
+                  src="/Asset/Team/person6.jpg"
                   alt="Shoes"
                   className="rounded-xl"
                 />
@@ -59,7 +59,7 @@ const OurTeam = () => {
               <LazyLoad>
                 {" "}
                 <img
-                  src="/Asset/person2.jpg"
+                  src="/Asset/Team/person2.jpg"
                   alt="Shoes"
                   className="rounded-xl"
                 />
@@ -80,7 +80,7 @@ const OurTeam = () => {
               <LazyLoad>
                 {" "}
                 <img
-                  src="/Asset/person3.jpg"
+                  src="/Asset/Team/person3.jpg"
                   alt="Shoes"
                   className="rounded-xl"
                 />
@@ -101,7 +101,7 @@ const OurTeam = () => {
               <LazyLoad>
                 {" "}
                 <img
-                  src="/Asset/person4.jpg"
+                  src="/Asset/Team/person4.jpg"
                   alt="Shoes"
                   className="rounded-xl"
                 />
@@ -122,7 +122,7 @@ const OurTeam = () => {
               <LazyLoad>
                 {" "}
                 <img
-                  src="/Asset/person5.jpg"
+                  src="/Asset/Team/person4.jpg"
                   alt="Shoes"
                   className="rounded-xl"
                 />
